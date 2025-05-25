@@ -1,0 +1,13 @@
+
+claim "We must abandon automated surveillance systems."
+support "They violate fundamental rights to privacy."
+support "They disproportionately target marginalized groups."
+appeal ethos: "Remember, we are a society built on freedom and justice."
+appeal pathos: "Imagine your child's every move recorded by strangers."
+counter "But what about security?"
+reframe "True security protects both safety and liberty."
+iffelt anxious:
+    support "The illusion of safety is not worth the loss of dignity."
+}
+action "Dismantle invasive systems and replace with transparent alternatives."
+conclude "Let us lead with values, not with fear."
